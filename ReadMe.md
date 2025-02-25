@@ -36,5 +36,3 @@ Here’s your revised table without the first column and with the **Week & Topic
 | **Week 29–30: Final Project** | Build a small application showcasing multiple design patterns. |
 | **Week 31: Final Review** | Review SOLID & design pattern implementations. |
 | **Week 32: Sharing Insights** | Share learnings through a presentation or blog post. |
-
-This format makes it even cleaner and easier to follow. Let me know if you need further refinements! 🚀
