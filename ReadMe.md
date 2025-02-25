@@ -1,7 +1,4 @@
-Repo to record the code for SMART Goals
-
-
-Here’s your revised table without the first column and with the **Week & Topic** column combined:  
+SMART Goals
 
 | **Week & Topic** | **Learning Objectives** |
 |-----------------|-------------------------|
