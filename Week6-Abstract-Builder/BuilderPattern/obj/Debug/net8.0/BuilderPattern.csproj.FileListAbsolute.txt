@@ -1,0 +1,15 @@
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\obj\Debug\net8.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfoInputs.cache
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfo.cs
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\obj\Debug\net8.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\obj\Debug\net8.0\BuilderPattern.sourcelink.json
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\bin\Debug\net8.0\BuilderPattern.exe
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\bin\Debug\net8.0\BuilderPattern.deps.json
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\bin\Debug\net8.0\BuilderPattern.runtimeconfig.json
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\bin\Debug\net8.0\BuilderPattern.dll
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\bin\Debug\net8.0\BuilderPattern.pdb
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\obj\Debug\net8.0\BuilderPattern.dll
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\obj\Debug\net8.0\refint\BuilderPattern.dll
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\obj\Debug\net8.0\BuilderPattern.pdb
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\obj\Debug\net8.0\BuilderPattern.genruntimeconfig.cache
+C:\Users\matthew.nolan\OneDrive - Payroc\Documents\SmartGoalRepo\SMARTGoal\Week6-Abstract-Builder\BuilderPattern\obj\Debug\net8.0\ref\BuilderPattern.dll
